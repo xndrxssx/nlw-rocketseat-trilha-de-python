@@ -1,3 +1,4 @@
 **/__pycache__
 cola.txt
 .venv
+.pytest_cache
